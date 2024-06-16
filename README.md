@@ -1,0 +1,2 @@
+# Delete_X_Followers
+REMOVE ALL FOLLOWERS ON X
